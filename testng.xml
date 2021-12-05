@@ -4,8 +4,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.salesforce.testcases.S0153_CreateCasePage"/>
-      <class name="com.salesforce.testcases.S0154_EditCase"/>
-      <class name="com.salesforce.testcases.S0155_DeleteCase"/>
      </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
